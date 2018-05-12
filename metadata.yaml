@@ -1,4 +1,5 @@
 _repo: The-Strand-Magazine-Volume-VII-Issue-42-June-1894-An-Illustrated-Monthly_47377
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,6 +9,9 @@ contributor:
       gutenberg_agent_id: '3266'
       url: http://www.gutenberg.org/2009/agents/3266
       wikipedia: http://en.wikipedia.org/wiki/George_Newnes
+covers:
+- cover_type: archival
+  image_path: 47377-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -15,6 +19,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47377#The-Strand-Magazine-Volume-VII-Issue-42-June-1894-An-Illustrated-Monthly
 gutenberg_issued: '2014-11-17'
 gutenberg_type: Text
 identifiers:
